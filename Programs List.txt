@@ -1,0 +1,10 @@
+1. Write a program to implement stack using arrays.
+2. Write a program to implement a queue using arrays.
+3. Write a program to implement a stack using a linked list.
+4. Write a program to implement a queue using a linked list.
+5. Write a program to convert a given infix expression to postfix form using stacks.
+6. Write a program to implement a circular queue using arrays.
+7. Write a program to implement double ended queue (dequeue) using arrays.
+8. Write programs to implement the data structures Double linked list.
+9. Write a program for creating a Binary tree and traversal of Binary tree
+10. Write a program for selection sort.
